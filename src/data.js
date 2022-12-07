@@ -13,7 +13,7 @@ export const projects = [
     description:
       "This is a project for Brown University's UIUX class(CSCI1300). I redesigned a website of a local bakery in hope of helping them promote their business",
     image: "./portfolio-image-2.png",
-    link: "https://crazyhippo313.github.io/Responsive-Redesign/redesigned.html",
+    link: "https://crazyhippo313.github.io/Responsive-Redesign",
   },
   {
     title: "BluenoEats",
@@ -24,11 +24,11 @@ export const projects = [
     link: "https://github.com/BluenoEats/blueno-eats",
   },
   {
-    title: "My Bakery",
+    title: "Iterative Design for NimbleRX",
     subtitle: "UI design in Figma",
     description:
-      "This is a project for Brown University's UIUX class(CSCI1300). I utilized usability principles to designed a UI for a bakery shop in order for a user to conveniently and quickly purchase pastries",
-    image: "./portfolio-image-4.png",
-    link: "https://www.figma.com/file/gtlDr1djmkgyr0QU5natCZ/csci1300-project3?node-id=0%3A1&t=9xs8r1UxH8ze7AZG-1",
+      "This is a project for Brown University's UIUX class(CSCI1300). Our team utilized usability principles to designed a UI for an emerging startup NimbleRX that aims to create a pharmaceutical platform.",
+    image: "./portfolio-video4.gif",
+    link: "https://excitedelk111.github.io/iterative-design/",
   },
 ];
